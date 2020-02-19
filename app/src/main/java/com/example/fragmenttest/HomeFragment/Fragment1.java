@@ -18,7 +18,7 @@ import com.example.fragmenttest.R;
 
 public class Fragment1 extends Fragment {
 
-    private String TAG = "HomeFragment1";
+    private String TAG = "Fragment1--》Home";
 
     @Nullable
     @Override

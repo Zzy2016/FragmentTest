@@ -13,7 +13,7 @@ import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
 public class Fragment3 extends Fragment {
-    private String TAG = "HomeFragment3";
+    private String TAG = "Fragment3--》Home";
 
     @Nullable
     @Override
