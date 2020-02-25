@@ -47,7 +47,6 @@ public class Main2Activity extends FragmentActivity {
 
         tabLayout.setupWithViewPager(vpContent);
 
-
     }
 
 
