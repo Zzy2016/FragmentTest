@@ -1,2 +1,2 @@
-include ':app', ':fragmentstateadaptertest', ':newmodule'
+include ':app', ':fragmentstateadaptertest', ':newmodule', ':checkforupdate'
 rootProject.name='FragmentTest'
